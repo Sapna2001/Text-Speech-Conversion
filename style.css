@@ -1,0 +1,35 @@
+body {
+    background-color: #fecd1a;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.text-speech{
+    background-color: black;
+    font-size: larger;
+    border-radius: 7px;
+    text-align: center;
+    padding: 20px;
+    width:20%;
+    margin:10%;
+}
+
+.speech-text{
+    background-color: black;
+    font-size: larger;
+    border-radius: 7px;
+    text-align: center;
+    padding: 20px;
+    width:20%;
+    margin:10%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
